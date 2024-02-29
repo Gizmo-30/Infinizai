@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url("../fonts/Roboto-Regular.ttf");
+}
+@font-face {
+    font-family: "Orbitron-Bold";
+    src: url("../fonts/Orbitron-Bold.ttf");
+}
+@font-face {
+    font-family: "Orbitron-Regular";
+    src: url("../fonts/Orbitron-Regular.ttf");
+}
+
+/**/
+
+@font-face {
+    font-family: 'fa-brands-400';
+    src: url('../fonts/fontAwesome/fa-brands-400.woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'fa-duotone-900';
+    src: url('../fonts/fontAwesome/fa-duotone-900.woff2');
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'fa-light-300';
+    src: url('../fonts/fontAwesome/fa-light-300.woff2');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'fa-regular-400';
+    src: url('../fonts/fontAwesome/fa-regular-400.woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'fa-solid-900';
+    src: url('../fonts/fontAwesome/fa-solid-900.woff2');
+    font-weight: 900;
+}
+
+.fab{
+    font-family: 'fa-brands-400';
+    font-style: normal;
+    font-weight: 400;
+}
+.fad{
+    font-family: 'fa-duotone-900';
+    font-style: normal;
+    font-weight: 900;
+}
+
+.far,.fas,.fal {
+    font-style: normal;
+}
+
+.far {
+    font-family: 'fa-regular-400';
+}
+.fal{
+    font-family: 'fa-light-300';
+}
+.fas{
+    font-family: 'fa-solid-900';
+}
